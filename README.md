@@ -2,7 +2,7 @@
   <br>
   <a href="./public/img/logo-lg-cropped.png"><img src="./public/img/logo-lg-cropped.png" alt="Stuttgart_logo" width="200"></a>
   <br>
-  Stuttgart Motors Lexington ky - Web Page
+  Stuttgart Motors Lexington Ky - Web Page
   <br>
 </h1>
 
