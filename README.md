@@ -1,4 +1,4 @@
-h1 align="center">
+<h1 align="center">
   <br>
   <a href="./public/img/logo-lg-cropped.png"><img src="./public/img/logo-lg-cropped.png" alt="Stuttgart_logo" width="200"></a>
   <br>
