@@ -6,9 +6,19 @@
   <br>
 </h1>
 
-## Fully Responsive
 
-A webpage optimized for Fullscreen, tablet, and Phones. Built with Node.js, express.js, and Sass.
+
+<h4 align="center">A webpage optimized for Fullscreen, tablet, and Phones.<h4>
+<h4 align="center">Built with Node.js, express.js, and Sass<h4>
+ 
+<p align="center">
+  <a href="#fully-responsive">Fully Responsive</a> •
+  <a href="#components">Components</a> •
+  <a href="#license">License</a>
+</p>
+  
+
+## Fully Responsive
 
 **Full Screen:**
 
